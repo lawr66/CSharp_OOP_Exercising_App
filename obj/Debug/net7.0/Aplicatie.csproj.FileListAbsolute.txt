@@ -1,0 +1,15 @@
+C:\Users\Tibi\Desktop\Aplicatie\bin\Debug\net7.0\Aplicatie.exe
+C:\Users\Tibi\Desktop\Aplicatie\bin\Debug\net7.0\Aplicatie.deps.json
+C:\Users\Tibi\Desktop\Aplicatie\bin\Debug\net7.0\Aplicatie.runtimeconfig.json
+C:\Users\Tibi\Desktop\Aplicatie\bin\Debug\net7.0\Aplicatie.dll
+C:\Users\Tibi\Desktop\Aplicatie\bin\Debug\net7.0\Aplicatie.pdb
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.csproj.AssemblyReference.cache
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.AssemblyInfoInputs.cache
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.AssemblyInfo.cs
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.dll
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\refint\Aplicatie.dll
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.pdb
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\Aplicatie.genruntimeconfig.cache
+C:\Users\Tibi\Desktop\Aplicatie\obj\Debug\net7.0\ref\Aplicatie.dll
